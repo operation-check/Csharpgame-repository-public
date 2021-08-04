@@ -35,15 +35,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Compile Include="sorce\Board.cs" />
-    <Compile Include="sorce\BoardBase.cs" />
-    <Compile Include="sorce\Controller.cs" />
-    <Compile Include="sorce\Game.cs" />
-    <Compile Include="sorce\HumanPlayer.cs" />
-    <Compile Include="sorce\IPlayer.cs" />
-    <Compile Include="sorce\PerfectPlayer.cs" />
-    <Compile Include="sorce\Program.cs" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

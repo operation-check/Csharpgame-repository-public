@@ -1,0 +1,7 @@
+C:\Users\k-aoki\Source\Repos\testrep\sanmokunarabe\obj\Debug\sanmokunarabe.csproj.AssemblyReference.cache
+C:\Users\k-aoki\Source\Repos\testrep\sanmokunarabe\obj\Debug\sanmokunarabe.csproj.CoreCompileInputs.cache
+C:\Users\k-aoki\Source\Repos\testrep\sanmokunarabe\bin\Debug\sanmokunarabe.exe.config
+C:\Users\k-aoki\Source\Repos\testrep\sanmokunarabe\bin\Debug\sanmokunarabe.exe
+C:\Users\k-aoki\Source\Repos\testrep\sanmokunarabe\bin\Debug\sanmokunarabe.pdb
+C:\Users\k-aoki\Source\Repos\testrep\sanmokunarabe\obj\Debug\sanmokunarabe.exe
+C:\Users\k-aoki\Source\Repos\testrep\sanmokunarabe\obj\Debug\sanmokunarabe.pdb
