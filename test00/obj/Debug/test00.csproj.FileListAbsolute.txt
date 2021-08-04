@@ -1,2 +1,7 @@
 C:\Users\k-aoki\Source\Repos\testrep\test00\obj\Debug\test00.csproj.AssemblyReference.cache
 C:\Users\k-aoki\Source\Repos\testrep\test00\obj\Debug\test00.csproj.CoreCompileInputs.cache
+C:\Users\k-aoki\Source\Repos\testrep\test00\bin\Debug\test00.exe.config
+C:\Users\k-aoki\Source\Repos\testrep\test00\bin\Debug\test00.exe
+C:\Users\k-aoki\Source\Repos\testrep\test00\bin\Debug\test00.pdb
+C:\Users\k-aoki\Source\Repos\testrep\test00\obj\Debug\test00.exe
+C:\Users\k-aoki\Source\Repos\testrep\test00\obj\Debug\test00.pdb
