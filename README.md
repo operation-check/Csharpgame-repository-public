@@ -1,4 +1,11 @@
 # testrep
+◆GitHubAction CodeScan（.Github/workflow）
+
+https://github.com/operation-check/testrep/tree/master/.github/workflows
+
+
+
+
 ・test00：HelloWorld(test00)
 
 https://github.com/operation-check/testrep/tree/master/test00
