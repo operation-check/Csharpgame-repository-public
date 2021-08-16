@@ -3,8 +3,11 @@
 
 https://github.com/operation-check/testrep/tree/master/.github/workflows
 
+◆VisualStudio用フォルダ（.vs）
 
+https://github.com/operation-check/testrep/tree/master/.vs
 
+--Code
 
 ・test00：HelloWorld(test00)
 
