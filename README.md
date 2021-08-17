@@ -1,4 +1,6 @@
-# testrep
+# public-repository
+repositoryをpublic状態にしてActionなどの動作を確認するためのRepository
+
 ◆GitHubAction CodeScan（.Github/workflow）
 
 https://github.com/operation-check/testrep/tree/master/.github/workflows
