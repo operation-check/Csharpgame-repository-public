@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\test00"
+    "\\tetris",
+    "\\tetris\\code"
   ],
-  "SelectedNode": "\\test00\\sorce",
+  "SelectedNode": "\\tetris\\App.config",
   "PreviewInSolutionExplorer": false
 }
