@@ -5,7 +5,11 @@ repositoryをpublic状態にしてActionなどの動作を確認するためのR
 ### `master branch`
 .slnファイルがなく、更にsanmokunarabe.csprojでもcompile対象への
 
-linkを記載していないためCodeScanが通りません。
+linkを記載していないためCodeScanが通らない。
+
+Develop2をマージする事でERRORがなくなった状態となる。
+
+（本来この形はdeploy可能な状態を維持できていないため望ましくない）
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
