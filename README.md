@@ -9,9 +9,13 @@ linkを記載していないためCodeScanが通りません。
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
+`CodeScanning格納 BuildはAutoBuildを利用`
+
 ◆GitHubAction CodeScan（.Github/workflow）
 
 https://github.com/operation-check/testrep/tree/master/.github/workflows
+
+`VisualStudio管理用ファイルが入っているフォルダ`
 
 ◆VisualStudio用フォルダ（.vs）
 
@@ -21,19 +25,21 @@ https://github.com/operation-check/testrep/tree/master/.vs
 
 `Code 以下２つのフォルダ内にプログラムコードと実行ファイルを格納済。`
 
-------------------------------------------
+
+
+`hello worldを表示するだけのもの。`
 
 ・test00：HelloWorld(test00)
 
 https://github.com/operation-check/testrep/tree/master/test00
 
-hello worldを表示するだけのもの。
-
 ------------------------------------------
+
+`コンソールにて三目並べができる「らしい」が起動は一応非推奨。
+あくまでも「コードのサンプル」としてだけのもの。`
 
 ・test01：三目並べ(sanmokunarabe)
 
 https://github.com/operation-check/testrep/tree/master/sanmokunarabe
 
-コンソールにて三目並べができる「らしい」ですが、起動は非推奨とします。
-あくまでも「コードのサンプル」と認識してください。
+
