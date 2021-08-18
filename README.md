@@ -21,3 +21,6 @@ https://github.com/operation-check/testrep/tree/master/test00
 https://github.com/operation-check/testrep/tree/master/sanmokunarabe
 
 
+master：未マージ分があるためCodeScanでERROR
+develop：tetorisで大量のerrorが残っているためCodeScanでERROR
+develop2：test00（hello world）とtest01（sanmokunarabe）がbuild errorなしで、CodeScanもERRORとなっていない。
