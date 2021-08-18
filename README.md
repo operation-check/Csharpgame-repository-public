@@ -1,6 +1,14 @@
 # public-repository
 repositoryをpublic状態にしてActionなどの動作を確認するためのRepository
 
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+### master branch
+.slnファイルがなく、更にsanmokunarabe.csprojでもcompile対象への
+
+linkを記載していないためCodeScanが通りません。
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
 ◆GitHubAction CodeScan（.Github/workflow）
 
 https://github.com/operation-check/testrep/tree/master/.github/workflows
@@ -20,4 +28,4 @@ https://github.com/operation-check/testrep/tree/master/test00
 
 https://github.com/operation-check/testrep/tree/master/sanmokunarabe
 
-masterは .slnファイルがなく、更にsanmokunarabe.csprojでもcompile対象へのlinkを記載していないためCodeScanが通りません。
+
