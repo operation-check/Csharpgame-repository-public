@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test00", "test00\test00.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sanmokunarabe", "sanmokunarabe\sanmokunarabe.csproj", "{F9585378-6108-44E3-AF77-A85941114938}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tetris", "tetris\tetris.csproj", "{470112D9-8179-48B5-A419-5DB318372B73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F9585378-6108-44E3-AF77-A85941114938}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9585378-6108-44E3-AF77-A85941114938}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9585378-6108-44E3-AF77-A85941114938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{470112D9-8179-48B5-A419-5DB318372B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470112D9-8179-48B5-A419-5DB318372B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470112D9-8179-48B5-A419-5DB318372B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470112D9-8179-48B5-A419-5DB318372B73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
