@@ -25,8 +25,6 @@ https://github.com/operation-check/testrep/tree/master/.vs
 
 `Code 以下２つのフォルダ内にプログラムコードと実行ファイルを格納済。`
 
-
-
 `hello worldを表示するだけのもの。`
 
 ・test00：HelloWorld(test00)
