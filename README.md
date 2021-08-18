@@ -21,6 +21,3 @@ https://github.com/operation-check/testrep/tree/master/test00
 https://github.com/operation-check/testrep/tree/master/sanmokunarabe
 
 
-・test03：テトリス()
-
-tetrise/
