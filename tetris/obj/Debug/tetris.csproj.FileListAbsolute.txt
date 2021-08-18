@@ -1,0 +1,2 @@
+C:\Users\k-aoki\Source\public-repository\tetris\obj\Debug\tetris.csproj.AssemblyReference.cache
+C:\Users\k-aoki\Source\public-repository\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
