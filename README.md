@@ -21,6 +21,8 @@ https://github.com/operation-check/testrep/tree/master/test00
 https://github.com/operation-check/testrep/tree/master/sanmokunarabe
 
 
-・test03：テトリス()
+・test02：テトリス(tetris)
 
-tetrise/
+https://github.com/operation-check/public-repository/tree/develop/tetris
+C#絡みのERRORが大量発生しており、developへのpush時CodeScan（CodeQL）によりpullrequestの発行自体を止められている。
+これを解除しなければDevelopへのmergeはできず、上記「helloworld/三目並べ」のみ正常に.exeは作成された状態となっている。
