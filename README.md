@@ -1,7 +1,7 @@
 # public-repository
 repositoryをpublic状態にしてActionなどの動作を確認するためのRepository
 
-【注意！】
+【注意！】現状の各branchの状態について
 
 master - C#用のセッティングが完了してないためbuildでエラーになる。
 
