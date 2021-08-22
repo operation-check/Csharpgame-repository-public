@@ -1,6 +1,16 @@
 # public-repository
 repositoryをpublic状態にしてActionなどの動作を確認するためのRepository
 
+【注意！】
+
+master - C#用のセッティングが完了してないためbuildでエラーになる。
+
+（本来あるべき姿（masterは本番環境へリリース可能な状態のもののみ配置する）とは違う状態である点に注意）
+
+develop - 複数のC#codeの中にerrorとなるものが内包されているためbuildがエラーとなる。
+
+develop2- build確認済でエラーとならない構成。
+
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 ### `master branch`
 .slnファイルがなく、更にsanmokunarabe.csprojでもcompile対象への
