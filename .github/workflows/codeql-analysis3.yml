@@ -68,13 +68,13 @@ jobs:
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
 
-    # Commit the cursor back to source
-    - name: Commit
+    # Record the behavior of 'code-ql-analysis' as commit information.
+    - name: Commit infomation set
       uses: EndBug/add-and-commit@v5
       with:
         author_name: codeql-analysis
         author_email: ${{ secrets.COMMITTER_EMAIL }}
-        message: "Updating cursor for audit log"
-        add: ".last-cursor-update --force"
+        message: "Updating commit infomation"
+      #  add: ".last-cursor-update --force"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
