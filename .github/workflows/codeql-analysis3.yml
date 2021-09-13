@@ -73,7 +73,7 @@ jobs:
       uses: EndBug/add-and-commit@v7
       with:
         author_name: codeql-analysis
-        author_email: actions@github.com
+        author_email: ${{ secrets.COMMITTER_EMAIL }}
         message: "Updating cursor for audit log"
         add: .
       env:
