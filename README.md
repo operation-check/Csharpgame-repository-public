@@ -1,6 +1,7 @@
 # public-repository
 repositoryをpublic状態にしてActionなどの動作を確認するためのRepository
 
+
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 ### `develop branch`
 C#絡みのERRORが大量発生しており、developへのpush時CodeScanning
