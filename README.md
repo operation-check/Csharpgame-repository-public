@@ -1,6 +1,7 @@
 # public-repository
 repositoryをpublic状態にしてActionなどの動作を確認するためのRepository
 
+
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 ### `develop2 branch`
 master：未マージ分があるためCodeScanでERRORとなる。
